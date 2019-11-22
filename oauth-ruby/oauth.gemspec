@@ -26,7 +26,7 @@ Gem::Specification.new do |spec|
   spec.add_development_dependency(%q<jeweler>)
   spec.add_development_dependency(%q<actionpack>, [">= 2.3.8"])
   spec.add_development_dependency(%q<iconv>, ["~> 1.0.3"])
-  spec.add_development_dependency(%q<rack>, ["~> 1.1.0"])
+  spec.add_development_dependency(%q<rack>, ["~> 2.0.7"])
   spec.add_development_dependency(%q<mocha>, [">= 0.9.12"])
   spec.add_development_dependency(%q<typhoeus>, [">= 0.1.13"])
   spec.add_development_dependency(%q<em-http-request>, ["0.2.11"])
