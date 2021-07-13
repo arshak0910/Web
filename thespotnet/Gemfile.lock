@@ -72,7 +72,8 @@ GEM
       minitest (~> 5.1)
       thread_safe (~> 0.1)
       tzinfo (~> 1.1)
-    addressable (2.3.6)
+    addressable (2.8.0)
+      public_suffix (>= 2.0.2, < 5.0)
     arel (5.0.1.20140414130214)
     attr_required (1.0.0)
     aws-sdk (1.44.0)
@@ -321,6 +322,7 @@ GEM
     pry-rescue (1.4.1)
       interception (>= 0.5)
       pry
+    public_suffix (3.1.1)
     pushmeup (0.2.0)
       httparty
       json
